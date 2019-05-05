@@ -6,8 +6,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Pluto main board"
-Date "2016-05-21"
-Rev ""
+Date "2019-05-05"
+Rev "2"
 Comp ""
 Comment1 ""
 Comment2 ""

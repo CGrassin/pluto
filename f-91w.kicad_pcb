@@ -10,6 +10,12 @@
   )
 
   (page A4)
+  (title_block
+    (title Pluto)
+    (date 2019-05-05)
+    (rev 2)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
