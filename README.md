@@ -1,6 +1,8 @@
 **Warning: This fork is a work in progress to replace the deprecated MAG3110 chip with the ST-LIS3MDL. Do not use, it is not ready.**
 
-**Replacement software: https://github.com/raphaelcasimir/pluto-fw**
+**Replacement software will be available on [Raphaël's repo](https://github.com/raphaelcasimir/pluto-fw)**
+
+![PCB rendering](https://raw.githubusercontent.com/CGrassin/pluto/master/photos/f-91w_render.jpg)
 
 -----
 
