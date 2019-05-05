@@ -40,7 +40,7 @@ controller. It can be programmed and debugged using the two-wire
 SBW interface accessible through holes in the mounting frame. 
 
 ## Digital Magnetometer
-The MAG3110 compass is connected to the MCU via I²C. To reduce its power 
+The ~~MAG3110~~LIS3MDL compass is connected to the MCU via I²C. To reduce its power 
 consumption to zero when not in use, it's powered from GPIO pin. Due to 
 layout constraints, the MCU's I²C interface can't be used, so the 
 MCU's firmware has to implement a bit-banged I²C master controller.
