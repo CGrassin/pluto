@@ -1,3 +1,9 @@
+**Warning: This fork is a work in progress to replace the deprecated MAG3110 chip with the ST-LIS3MDL. Do not use, it is not ready.**
+
+**Replacement software: https://github.com/raphaelcasimir/pluto-fw**
+
+-----
+
 Pluto is a programmable digital watch that re-uses case and LCD 
 panel of the Casio® F-91W.  This is the hardware repo, for the 
 software side of things, see [pluto-fw](https://github.com/carrotIndustries/pluto-fw).
