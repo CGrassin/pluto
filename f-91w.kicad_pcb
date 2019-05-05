@@ -71,7 +71,7 @@
     (grid_origin 51.2555 102.891)
     (visible_elements 7FFEFF7F)
     (pcbplotparams
-      (layerselection 0x010f0_80000001)
+      (layerselection 0x010f0_ffffffff)
       (usegerberextensions true)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
@@ -2606,7 +2606,7 @@
     )
     (filled_polygon
       (pts
-        (xy 54.573 108.873) (xy 53.06162 108.873) (xy 52.973452 108.835964) (xy 52.627 108.628093) (xy 52.627 107.6)
+        (xy 54.573 108.873) (xy 53.06162 108.873) (xy 52.973451 108.835964) (xy 52.627 108.628093) (xy 52.627 107.6)
         (xy 52.62456 107.575224) (xy 52.617333 107.551399) (xy 52.605597 107.529443) (xy 52.589803 107.510197) (xy 52.570557 107.494403)
         (xy 52.548601 107.482667) (xy 52.524776 107.47544) (xy 52.5 107.473) (xy 52.027 107.473) (xy 52.027 106.227)
         (xy 54.573 106.227)
