@@ -2,7 +2,7 @@
 
   (general
     (thickness 0.5)
-    (drawings 499)
+    (drawings 500)
     (tracks 655)
     (zones 0)
     (modules 36)
@@ -67,8 +67,8 @@
     (pad_drill 0)
     (pad_to_mask_clearance 0.1)
     (solder_mask_min_width 0.1)
-    (aux_axis_origin 58.26 131.31)
-    (grid_origin 19.6579 18.2582)
+    (aux_axis_origin 19.6579 20.7982)
+    (grid_origin 19.6579 20.7982)
     (visible_elements 7FFEFF7F)
     (pcbplotparams
       (layerselection 0x010f0_ffffffff)
@@ -1276,6 +1276,7 @@
       (net 60 /IR_PWR))
   )
 
+  (target plus (at 19.6579 20.7982) (size 5) (width 0.2) (layer Edge.Cuts))
   (gr_line (start 23.938917 26.571576) (end 23.772699 26.741801) (layer Edge.Cuts) (width 0.1))
   (gr_arc (start 28.8527 44.8266) (end 28.1415 44.765627) (angle -128.6) (layer Edge.Cuts) (width 0.1))
   (gr_arc (start 22.6551 28.8246) (end 23.772699 26.741801) (angle -210.7) (layer Edge.Cuts) (width 0.1))
