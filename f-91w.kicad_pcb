@@ -352,7 +352,7 @@
     (fp_text reference Q1 (at 1.6688 -1.2988) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value BC846 (at 0 2.25) (layer F.Fab)
+    (fp_text value "BC846, MMBT3904TT1G" (at 0 2.25) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -0.15 -0.9) (end -0.45 -0.6) (layer F.Fab) (width 0.1))
